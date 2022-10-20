@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gandhymann" target="blank"><img src="https://img.shields.io/twitter/follow/gandhymann?logo=twitter&style=for-the-badge" alt="gandhymann" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://buyme-app-pf.vercel.app" target="blank">**Buyme app**</a>
+- 🔭 I’m currently working on <a href="https://www.coderhouse.com.mx/" target="blank">**Coderhouse**</a>
 
-- 🌱 I’m currently learning **Js, React, Redux, Sequelize, NodeJs**
+- 🌱 I’m currently learning **Js, React, Redux, Sequelize, NodeJs, python, c++, c#, css, HTML, puppeteer**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **WEB SCRAPING**
 
 - 📫 How to reach me **gandhycoder@gmail.com**
 
